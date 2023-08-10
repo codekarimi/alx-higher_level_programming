@@ -3,10 +3,7 @@
 # Brennan D Baraban <375@holbertonschool.com>
 
 
-def uppercase(str):
-    """Print a string in uppercase."""
-    for c in str:
-        if ord(c) >= 97 and ord(c) <= 122:
-            c = chr(ord(c) - 32)
-            print("{}".format(c), end="")
-            print("")
+def print_last_digit(number):
+    """Print the last digit of a number and return it."""
+    print(abs(number) % 10, end="")
+    return (abs(number) % 10)
