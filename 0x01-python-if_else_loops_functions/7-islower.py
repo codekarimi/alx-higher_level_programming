@@ -1,4 +1,5 @@
-slower.py
+#!/usr/bin/python3
+# 7-islower.py
 # Brennan D Baraban <375@holbertonschool.com>
 
 
