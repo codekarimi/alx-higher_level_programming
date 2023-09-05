@@ -1,4 +1,6 @@
-en D Baraban <375@holbertonschool.com>
+#!/usr/bin/python3
+# 8-rectangle.py
+# D Baraban <375@holbertonschool.com>
 """Defines a Rectangle class."""
 
 
